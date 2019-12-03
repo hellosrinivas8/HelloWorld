@@ -28,7 +28,6 @@
 <server>apache-tomcat</server> 
 <path>/my-webapp</path> 
 </configuration> 
-</plugin>
-	  </plugins>
+</plugin></plugins>
   </build>
 </project>
